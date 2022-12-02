@@ -1,12 +1,12 @@
 ---
-title: "maellinjoydineros.github.io"
+title: "Maellin Joy Dineros"
 ---
 
-# Welcome to my Personal Website!
+## Welcome to my Personal Website!
 
 ![](img/IMG_1844.jpeg){width="568"}
 
-My name is Maellin Dineros and I am an undergraduate student at CSU Channel Islands on track to receiving my Bachelor's Degree on May 2023. I am majoring in Mathematics with an emphasis in Statistics and minoring in Computer Science. After graduation, I will start my professional career as a Data Scientist intern in Mission Produce. With my foot already at the door, it is my goal maintain this path to one day become a Data Scientist working towards improving wildlife and nature.
+  My name is Maellin Dineros and I am an undergraduate student at CSU Channel Islands on track to receiving my Bachelor's Degree on May 2023. I am majoring in Mathematics with an emphasis in Statistics and minoring in Computer Science. After graduation, I will start my professional career as a Data Scientist intern in Mission Produce. With my foot already at the door, it is my goal maintain this path to one day become a Data Scientist working towards improving wildlife and nature.
 
 ## Why Mathematics and Computer Science?
 
