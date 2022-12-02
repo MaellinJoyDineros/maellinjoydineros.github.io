@@ -5,6 +5,109 @@ format: html
 editor: visual
 ---
 
-## Quarto
+## My Professional Experiences:
 
-lajdfhe
+#### District Academic Affairs Chairperson
+
+|                     |                                     |                  |
+|-----------------------|-------------------------------|------------------|
+| Jan. 2015 - present | Christian Brotherhood International | Los Angeles, CA. |
+
+-   Help tutor (in-person and online) in common core Mathematics, Algebra, Geometry, Calculus I, II, and III, Linear Algebra, Differential Equations, Statistics, Chemistry, and Physics.
+
+-   Lead monthly meetings with Chapter Presidents in other parts of Southern California.
+
+-   Aid in providing a respectful online community between students through Discord and Telegram.
+
+-   Establish virtual and in-person study groups and tutoring sessions in different parts of Southern California.
+
+-   Regulate tutoring schedule.
+
+#### Financial Auditor
+
+|                      |                                      |             |
+|----------------------|--------------------------------------|-------------|
+| Nov. 2021 - present  | Iglesia Ni Cristo (Church of Christ) | Oxnard, CA. |
+
+-   Inventory item and monetary donations, and maintenance supplies.
+
+-   Perform financial audits.
+
+-   Create analysis, monitor rates, and suggest price adjustments towards chapel beautification.
+
+-   Provide forecast/trend reports to promote better financial decision-making using Excel.
+
+#### Financial Treasurer
+
+|                       |                                      |                  |
+|----------------------|--------------------------------|-------------------|
+| June 2016 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
+
+-   Completed treasury reports by enumerating and finalizing donated funds to each budgetary account.
+
+-   Made recommendations to ensure the security and complete accuracy of funding for proper execution and/or delivery of funds to the higher office.
+
+#### Teacher - Regional Assistant Officer in Charge
+
+|                       |                                      |                  |
+|----------------------|--------------------------------|-------------------|
+| Mar. 2018 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
+
+-   Led weekly meetings of co-teachers and officers to discuss concerns and ways to improve caring for the young members.
+
+-   Distributed weekly worship service teaching assignments to teachers within the region and outlined weekly presentations for children (ages ranging from 4 to 12).
+
+-   Oversaw activities to promote life productivity and provided counseling to children in need.
+
+-   Worked closely with parents to monitor each child's progress at school, home, and church.
+
+#### Certified Nursing Assistant
+
+|                       |                            |                      |
+|-----------------------|----------------------------|----------------------|
+| July 2020 - Jan. 2021 | Villa Maria Post Acute     | Santa Maria, CA.     |
+| Aug. 2019 - Dec. 2019 | Mission View Health Center | San Luis Obispo, CA. |
+
+-   Provided excellent care and unbiased service to each resident (ranging between 8-25 individuals depending on the number of staff available per shift).
+
+-   Created shift reports about every resident for updates and health concerns.
+
+-   Provided cardiopulmonary resuscitation on residents under "full-code," as needed.
+
+## My Technical Skills:
+
+-   Proficient in: Excel, Word, MS Office, PowerPoint
+-   Programming Languages: Java, Python, LaTeX, Overleaf, R, R Markdown, Quarto
+-   Operating Systems: Windows, MacOS
+-   Scientific Software: MATLAB, Desmos, ImageJ
+-   Languages: Advanced in English and Tagalog
+
+## Presentations and Research Projects:
+
+|                                                          |                |                     |
+|--------------------------------------|-----------------|-----------------|
+| Differential Equations Project on Slope Fields           | September 2021 | CSU Channel Islands |
+| "Linear, Homogeneous, and First Order Equations" Project | November 2021  | CSU Channel Islands |
+| "Exploring Numerical Methods and Chaos" Project          | December 2021  | CSU Channel Islands |
+| "Fractals" seminar presentation                          | December 2021  | CSU Channel Islands |
+| Presentation on Logician: Alan Turing                    | May 2022       | CSU Channel Islands |
+| Image De-convolution and Enhancement Presentation        | November 2022  | CSU Channel Islands |
+| Putnam Problem seminar Presentation                      | November 2022  | CSU Channel Islands |
+
+## After-school Achievements:
+
+-   1st Place -- 2015 Local level (Santa Maria) MATH Quiz Bee Competition (for High School Students) -- Christian Brotherhood International
+
+-   4th Place -- 2015 District level (Southern California) MATH Quiz Bee Competition (for High School Students) -- Christian Brotherhood International
+
+-   1st Place -- 2017 Local (Santa Maria) Trig competition (for Undergrad students) -- Christian Brotherhood International
+
+-   4th Place -- 2017 District level (Southwest California) Trig competition (for Undergrad students) -- Christian Brotherhood International
+
+-   1st Place -- 2019 Local level (Santa Maria) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+-   2nd Place -- 2019 District level (Los Angeles County California) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+-   1st Place -- 2022 Local level (Oxnard) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
+
+-   3rd Place -- 2022 District level (Los Angeles County California) MATH Quiz Bee Competition (for Undergrad students) -- Christian Brotherhood International
