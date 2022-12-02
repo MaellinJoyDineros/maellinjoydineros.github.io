@@ -12,17 +12,19 @@ title: "About Me"
 
 -   I would rather sing in front of hundreds of strangers than anyone important to me.
 
+-   My most favorite purchase of the year is a wet vacuum by BISSELL. It is both a solids vacuum and a mop and saves me time from doing two passes of my entire house!
+
 -   I have two gray kittens and two Maltese Poodles! My cats are named Sky and Mittens (he looks like he's wearing socks!) and my dogs are named Mikmik and Potchi (after Filipino sweet snacks).
 
     Here is a photo of my cats:
 
-    !\[\](img/my cats.jpeg){width="568"}
+    ![](img/my cats.jpeg){width="568"}
 
     Here is a photo of my dogs:
 
-    !\[\](img/my dogs.jpeg)
+    ![](img/my dogs.jpeg)
 
--   My most favorite purchase of the year is a wet vacuum by BISSELL. It is both a solids vacuum and a mop and saves me time from doing two passes of my entire house!
+
 
 Based in: Oxnard, CA. 93033
 
