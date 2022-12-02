@@ -7,9 +7,9 @@ editor: visual
 
 ## Education:
 
-Expected: May 2023
+Expected Graduation Date: May 2023
 
-California State University Channel Islands
+School: California State University Channel Islands
 
 GPA: 3.83
 
