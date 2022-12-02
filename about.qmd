@@ -16,15 +16,11 @@ title: "About Me"
 
 -   I have two gray kittens and two Maltese Poodles! My cats are named Sky and Mittens (he looks like he's wearing socks!) and my dogs are named Mikmik and Potchi (after Filipino sweet snacks).
 
-    Here is a photo of my cats:
+Here is a photo of my cats:
+![](img/my cats.jpeg){width="568"}
 
-    ![](img/my cats.jpeg){width="568"}
-
-    Here is a photo of my dogs:
-
-    ![](img/my dogs.jpeg)
-
-
+Here is a photo of my dogs:
+![](img/my dogs.jpeg)
 
 Based in: Oxnard, CA. 93033
 
