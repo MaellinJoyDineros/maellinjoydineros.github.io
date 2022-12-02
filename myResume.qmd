@@ -5,6 +5,16 @@ format: html
 editor: visual
 ---
 
+## Education:
+
+Expected: May 2023
+
+California State University Channel Islands
+
+GPA: 3.83
+
+*Bachelor of Science in Mathematics, Statistics Emphasis -- Minor in Computer Science*
+
 ## My Professional Experiences:
 
 #### District Academic Affairs Chairperson
@@ -25,9 +35,9 @@ editor: visual
 
 #### Financial Auditor
 
-|                      |                                      |             |
-|----------------------|--------------------------------------|-------------|
-| Nov. 2021 - present  | Iglesia Ni Cristo (Church of Christ) | Oxnard, CA. |
+|                     |                                      |             |
+|---------------------|--------------------------------------|-------------|
+| Nov. 2021 - present | Iglesia Ni Cristo (Church of Christ) | Oxnard, CA. |
 
 -   Inventory item and monetary donations, and maintenance supplies.
 
@@ -40,7 +50,7 @@ editor: visual
 #### Financial Treasurer
 
 |                       |                                      |                  |
-|----------------------|--------------------------------|-------------------|
+|----------------------|-------------------------------|-------------------|
 | June 2016 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
 -   Completed treasury reports by enumerating and finalizing donated funds to each budgetary account.
@@ -50,7 +60,7 @@ editor: visual
 #### Teacher - Regional Assistant Officer in Charge
 
 |                       |                                      |                  |
-|----------------------|--------------------------------|-------------------|
+|----------------------|-------------------------------|-------------------|
 | Mar. 2018 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
 -   Led weekly meetings of co-teachers and officers to discuss concerns and ways to improve caring for the young members.
@@ -85,7 +95,7 @@ editor: visual
 ## Presentations and Research Projects:
 
 |                                                          |                |                     |
-|--------------------------------------|-----------------|-----------------|
+|-------------------------------------|------------------|------------------|
 | Differential Equations Project on Slope Fields           | September 2021 | CSU Channel Islands |
 | "Linear, Homogeneous, and First Order Equations" Project | November 2021  | CSU Channel Islands |
 | "Exploring Numerical Methods and Chaos" Project          | December 2021  | CSU Channel Islands |
