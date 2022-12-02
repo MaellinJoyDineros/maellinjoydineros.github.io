@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I graduated High School in 2015 from Santa Maria High School in Santa Barbara County.\nI enrolled at my local college, Allan Hancock College, and first majored in Biology in hopes of going to Veterinary School.\nI switched majors to Nursing in 2017 and received my Nursing Assistant Certification in 2019.\nI joined the waitlist to become a Licensed Nurse in 2019 and continued taking Mathematics courses (for fun).\nI received my Associate’s Degree in Mathematics diploma through the mail in 2020.\nI transferred to CSU Channel Islands as a Mathematics major on January 2021.\nAfter enjoying the required Computer Science courses, I decided to minor in it.\nI will be graduating with a Mathematics major and a Computer Science minor in May 2023."
-  },
-  {
     "objectID": "about.html#fun-facts-about-me",
     "href": "about.html#fun-facts-about-me",
     "title": "About Me",
@@ -26,6 +19,13 @@
     "title": "My Resume",
     "section": "",
     "text": "Expected Graduation Date: May 2023\nSchool: California State University Channel Islands\nGPA: 3.83\nBachelor of Science in Mathematics, Statistics Emphasis – Minor in Computer Science"
+  },
+  {
+    "objectID": "myResume.html#my-academic-history",
+    "href": "myResume.html#my-academic-history",
+    "title": "My Resume",
+    "section": "My Academic History:",
+    "text": "My Academic History:\n\nI graduated High School in 2015 from Santa Maria High School in Santa Barbara County.\nI enrolled at my local college, Allan Hancock College, and first majored in Biology in hopes of going to Veterinary School.\nI switched majors to Nursing in 2017 and received my Nursing Assistant Certification in 2019.\nI joined the waitlist to become a Licensed Nurse in 2019 and continued taking Mathematics courses (for fun).\nI received my Associate’s Degree in Mathematics diploma through the mail in 2020.\nI transferred to CSU Channel Islands as a Mathematics major on January 2021.\nAfter enjoying the required Computer Science courses, I decided to minor in it.\nI will be graduating with a Mathematics major and a Computer Science minor in May 2023."
   },
   {
     "objectID": "myResume.html#my-professional-experiences",
