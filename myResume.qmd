@@ -31,7 +31,7 @@ California State University Channel Islands
 #### District Academic Affairs Chairperson
 
 |                     |                                     |                  |
-|-----------------------|-------------------------------|------------------|
+|---------------------|-------------------------------------|------------------|
 | Jan. 2015 - present | Christian Brotherhood International | Los Angeles, CA. |
 
 -   Help tutor (in-person and online) in common core Mathematics, Algebra, Geometry, Calculus I, II, and III, Linear Algebra, Differential Equations, Statistics, Chemistry, and Physics.
@@ -61,7 +61,7 @@ California State University Channel Islands
 #### Financial Treasurer
 
 |                       |                                      |                  |
-|----------------------|-------------------------------|-------------------|
+|-----------------------|--------------------------------------|------------------|
 | June 2016 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
 -   Completed treasury reports by enumerating and finalizing donated funds to each budgetary account.
@@ -71,7 +71,7 @@ California State University Channel Islands
 #### Teacher - Regional Assistant Officer in Charge
 
 |                       |                                      |                  |
-|----------------------|-------------------------------|-------------------|
+|-----------------------|--------------------------------------|------------------|
 | Mar. 2018 - Nov. 2021 | Iglesia Ni Cristo (Church of Christ) | Santa Maria, CA. |
 
 -   Led weekly meetings of co-teachers and officers to discuss concerns and ways to improve caring for the young members.
@@ -106,7 +106,7 @@ California State University Channel Islands
 ## Presentations and Research Projects:
 
 |                                                          |                |                     |
-|-------------------------------------|------------------|------------------|
+|----------------------------------------------------------|----------------|---------------------|
 | Differential Equations Project on Slope Fields           | September 2021 | CSU Channel Islands |
 | "Linear, Homogeneous, and First Order Equations" Project | November 2021  | CSU Channel Islands |
 | "Exploring Numerical Methods and Chaos" Project          | December 2021  | CSU Channel Islands |
